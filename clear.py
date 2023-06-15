@@ -20,7 +20,8 @@ bin_file_exts = [
     'pch',
     'lib',
     'pdb',
-    'bak'
+    'bak',
+    'pyd'
 ]
 
 for ext in bin_file_exts:
