@@ -1,0 +1,1 @@
+node-gyp configure; node-gyp build; echo F | xcopy /Y .\build\Release\Classificator.node .\Classificator.node; rm .\build -r -force

@@ -1,0 +1,7 @@
+#include "resource.h"
+
+
+SAMPLE IMG "sample.png"
+SAMPLE_1 IMG "sample1.jpg"
+SAMPLE_2 IMG "sample2.jpg"
+SAMPLE_3 IMG "sample3.jpg"
